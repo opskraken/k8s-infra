@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: cortex
-          image: ghcr.io/nesohq/bgce-archive/cortex:6cf91b4031cb96fe136116e9cc496a70e375cf52
+          image: ghcr.io/nesohq/bgce-archive/cortex:67f6b8c6eaccfa6e5a57329772821e40a3c0905f
           ports:
             - containerPort: 3345
           env:
