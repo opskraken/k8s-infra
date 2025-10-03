@@ -1,0 +1,2 @@
+resources:
+    - cortex/deployment.yaml
